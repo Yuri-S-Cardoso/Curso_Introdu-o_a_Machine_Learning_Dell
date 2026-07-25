@@ -1,0 +1,21 @@
+Introdução a Machine Learning
+
+Aprendizado não supervisionado:
+é um tipo de aprendizado de máquina em que o modelo é treinado com dados que já possuem as 
+respostas corretas. Isso significa que, durante o treinamento, o sistema recebe exemplos de 
+entrada acompanhados do resultado esperado. A partir desses exemplos, ele aprende a identificar 
+padrões e passa a fazer previsões sobre novos dados.
+
+Um exemplo simples é a previsão do preço de uma casa. O modelo recebe informações como tamanho 
+do imóvel, localização, número de quartos e preço de venda. Depois de analisar vários exemplos,
+ele aprende a relação entre essas características e consegue estimar o valor de uma nova casa.
+
+Aprendizado supervisionado:
+é um tipo de aprendizado de máquina em que os dados utilizados não possuem respostas prontas. 
+Nesse caso, o modelo analisa as informações e tenta encontrar padrões, semelhanças ou grupos 
+de forma automática.
+
+Um exemplo é a análise dos clientes de uma loja. O sistema pode observar dados como frequência 
+de compras, valor gasto e tipos de produtos adquiridos. A partir dessas informações, ele pode 
+separar os clientes em grupos com comportamentos parecidos, mesmo sem receber instruções sobre 
+como esses grupos devem ser formados.
