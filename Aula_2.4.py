@@ -30,5 +30,5 @@ knn = KNeighborsClassifier(n_neighbors=3)
 #print(knn.predict(X_test))
 #print(y_test)
 
-knn = KNeighborsRegressor(n_neighbors=3)
+knn = KNeighborsRegressor(n_neighbors=3) 
 data = load_boston()
